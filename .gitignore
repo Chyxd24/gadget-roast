@@ -1,2 +1,6 @@
 __pycache__/
 *.tar.gz
+
+bundle.tar.gz
+__pycache__/
+/output/

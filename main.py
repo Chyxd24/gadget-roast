@@ -8,8 +8,8 @@ import os
 
 # The roast line. Punchier verb, tighter tail.
 ROAST_LINE = (
-    "My phone flatlines at 4pm sharp like it clocked out, and I can't even be mad - "
-    "it's the only thing I own with a healthier work-life balance than me."
+    "My phone dies at 4pm like it clocked out. I checked: it's the only thing "
+    "I own with a healthier work-life balance than me."
 )
 
 line = ROAST_LINE.strip()
